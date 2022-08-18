@@ -1,4 +1,4 @@
-# US_Hostels_Dashboard
+# US Hostels Dashboard
 Scraped the data of a vacation-based US hostels of State Austin and Dallas.
 
 Features:
